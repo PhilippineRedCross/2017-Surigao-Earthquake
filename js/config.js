@@ -1,7 +1,7 @@
 // SET VARIABLES FOR THIS Dashboard
 
-var config_Title = 'Typhoon Odette (Rai) Operation';
-var config_LastUpdate = '11 January 2022';
+var config_Title = 'Surigao Del Norte 6.7M Earthquake Operation';
+var config_LastUpdate = '13 February 2018';
 
 var config_author = 'Elaine Manzon';
 var config_email = 'elaine.manzon@redcross.org.ph';
