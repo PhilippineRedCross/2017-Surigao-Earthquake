@@ -1,0 +1,360 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;IFRC;Health;Health;Ambulance Team;1667;166724;;Finished;2;team
+2;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Canlanipa;Finished;7;Families
+3;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Luna;Finished;3;Families
+4;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Mabini;Finished;4;Families
+5;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Mat-i;Finished;11;Families
+6;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Poctoy;Finished;2;Families
+7;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Rizal;Finished;1;Families
+8;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;San Juan;Finished;3;Families
+9;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;San Roque;Finished;1;Families
+10;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Taft;Finished;85;Families
+11;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Togbongon;Finished;1;Families
+12;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Washington;Finished;28;Families
+13;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166719;Poblacion;Finished;153;Families
+14;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166719;Diaz;Finished;57;Families
+15;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166719;Honrado;Finished;14;Families
+16;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166719;Macopa;Finished;20;Families
+17;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166719;Magtangle;Finished;34;Families
+37;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166719;Poblacion;Finished;153;Families
+38;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166719;Diaz;Finished;57;Families
+39;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166719;Honrado;Finished;14;Families
+40;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166719;Macopa;Finished;20;Families
+41;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166719;Magtangle;Finished;34;Families
+23;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Danao;Finished;4;Families
+24;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Ipil;Finished;1;Families
+25;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166724;Cagniog;Finished;5;Families
+26;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Canlanipa;Finished;7;Families
+27;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Luna;Finished;3;Families
+28;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Mabini;Finished;4;Families
+29;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Mat-i;Finished;11;Families
+30;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Poctoy;Finished;2;Families
+31;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Rizal;Finished;1;Families
+32;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;San Juan;Finished;3;Families
+33;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;San Roque;Finished;1;Families
+34;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Taft;Finished;85;Families
+35;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Togbongon;Finished;1;Families
+36;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Washington;Finished;28;Families
+61;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166719;Poblacion;Finished;153;Families
+62;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166719;Diaz;Finished;57;Families
+63;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166719;Honrado;Finished;14;Families
+64;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166719;Macopa;Finished;20;Families
+65;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166719;Magtangle;Finished;34;Families
+85;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166719;Poblacion;Finished;153;Families
+86;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166719;Diaz;Finished;57;Families
+87;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166719;Honrado;Finished;14;Families
+88;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166719;Macopa;Finished;20;Families
+89;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166719;Magtangle;Finished;34;Families
+47;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Danao;Finished;4;Families
+48;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Ipil;Finished;1;Families
+49;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166724;Cagniog;Finished;5;Families
+50;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Canlanipa;Finished;7;Families
+51;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Luna;Finished;3;Families
+52;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Mabini;Finished;4;Families
+53;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Mat-i;Finished;11;Families
+54;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Poctoy;Finished;2;Families
+55;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Rizal;Finished;1;Families
+56;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;San Juan;Finished;3;Families
+57;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;San Roque;Finished;1;Families
+58;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Taft;Finished;85;Families
+59;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Togbongon;Finished;1;Families
+60;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Washington;Finished;28;Families
+109;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166719;Poblacion;Finished;153;Families
+110;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166719;Diaz;Finished;57;Families
+111;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166719;Honrado;Finished;14;Families
+112;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166719;Macopa;Finished;20;Families
+113;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166719;Magtangle;Finished;34;Families
+122;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166719;Macopa;Finished;20;Families
+123;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166719;Magtangle;Finished;34;Families
+152;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166719;Poblacion;Finished;153;Families
+153;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166719;Diaz;Finished;57;Families
+154;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166719;Honrado;Finished;14;Families
+71;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Danao;Finished;4;Families
+72;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Ipil;Finished;1;Families
+73;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166724;Cagniog;Finished;5;Families
+74;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Canlanipa;Finished;7;Families
+75;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Luna;Finished;3;Families
+76;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Mabini;Finished;4;Families
+77;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Mat-i;Finished;11;Families
+78;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Poctoy;Finished;2;Families
+79;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Rizal;Finished;1;Families
+80;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;San Juan;Finished;3;Families
+81;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;San Roque;Finished;1;Families
+82;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Taft;Finished;85;Families
+83;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Togbongon;Finished;1;Families
+84;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Washington;Finished;28;Families
+179;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166719;Poblacion;Finished;153;Families
+180;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166719;Diaz;Finished;57;Families
+181;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166719;Honrado;Finished;14;Families
+186;IFRC;Relief;Cash;MPCG (PHP 3,000/family);1667;166719;Diaz;Finished;162;Families
+187;IFRC;Relief;Cash;MPCG (PHP 3,000/family);1667;166719;Honrado;Finished;152;families
+188;IFRC;Relief;Cash;MPCG (PHP 3,000/family);1667;166719;Banbanon;Finished;65;families
+189;IFRC;Relief;Cash;MPCG (PHP 3,000/family);1667;166719;Macopa;Finished;42;families
+190;IFRC;Relief;Cash;MPCG (PHP 3,000/family);1667;166719;Oslao;Finished;67;families
+191;IFRC;Welfare;PSS;Psychosocial Support;1667;166719;Honrado;Finished;67;Individuals
+247;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166719;Poblacion;Finished;153;Families
+95;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Danao;Finished;4;Families
+96;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Ipil;Finished;1;Families
+97;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166724;Cagniog;Finished;5;Families
+98;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Canlanipa;Finished;7;Families
+99;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Luna;Finished;3;Families
+100;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Mabini;Finished;4;Families
+101;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Mat-i;Finished;11;Families
+102;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Poctoy;Finished;2;Families
+103;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Rizal;Finished;1;Families
+104;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;San Juan;Finished;3;Families
+105;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;San Roque;Finished;1;Families
+106;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Taft;Finished;85;Families
+107;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Togbongon;Finished;1;Families
+108;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Washington;Finished;28;Families
+248;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166719;Diaz;Finished;57;Families
+249;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166719;Honrado;Finished;14;Families
+276;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166719;Poblacion;Finished;153;Families
+277;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166719;Diaz;Finished;57;Families
+278;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166719;Honrado;Finished;14;Families
+299;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166719;Poblacion;Finished;153;Families
+300;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166719;Diaz;Finished;57;Families
+301;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166719;Honrado;Finished;14;Families
+322;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166719;Poblacion;Finished;153;Families
+323;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166719;Diaz;Finished;57;Families
+119;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Danao;Finished;4;Families
+120;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Ipil;Finished;1;Families
+121;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166724;Cagniog;Finished;5;Families
+324;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166719;Honrado;Finished;14;Families
+338;Holcim;Relief;Non-Food Items;Towel;1667;166719;Poblacion;Finished;153;Families
+339;Holcim;Relief;Non-Food Items;Towel;1667;166719;Diaz;Finished;57;Families
+340;Holcim;Relief;Non-Food Items;Towel;1667;166719;Honrado;Finished;14;Families
+341;Holcim;Relief;Non-Food Items;Towel;1667;166719;Macopa;Finished;20;Families
+342;Holcim;Relief;Non-Food Items;Towel;1667;166719;Magtangle;Finished;34;Families
+18;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166722;San Pablo;Finished;52;Families
+129;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166724;Danao;Finished;4;Families
+130;Gardenia;Relief;Food Items;Gardenia Bread;1667;166724;Punta Balir;Finished;9;families
+131;Gardenia;Relief;Food Items;Gardenia Bread;1667;166724;Anomar;Finished;61;families
+132;Gardenia;Relief;Food Items;Gardenia Bread;1667;166724;Mabini;Finished;166;families
+133;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Anomar;Finished;32;Families
+134;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Canlanipa;Finished;3;Families
+135;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Ipil;Finished;9;Families
+136;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Lipata;Finished;7;Families
+137;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Luna;Finished;15;Families
+138;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Mabini;Finished;3;Families
+139;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Mabua;Finished;4;Families
+140;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Mat-i;Finished;14;Families
+141;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Poctoy;Finished;2;Families
+142;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Punta Bilar;Finished;4;Families
+143;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Quezon;Finished;4;Families
+144;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Rizal;Finished;13;Families
+145;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Sabang;Finished;3;Families
+146;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;San Juan;Finished;84;Families
+147;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;San Roque;Finished;3;Families
+148;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Taft;Finished;41;Families
+149;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Togbongon;Finished;1;Families
+150;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Trinidad;Finished;2;Families
+151;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Washington;Finished;27;Families
+19;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166722;San Pedro;Finished;2;Families
+20;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166722;Tinogpahan;Finished;2;Families
+21;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166722;Ima;Finished;26;Families
+155;IFRC;WASH;Non-Food Items;Hygiene Kit;1667;166724;Cagniog;Finished;5;Families
+156;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1667;166724;;Finished;234;Individuals
+22;Holcim;Relief;Food Items;Assorted Food Packs (C2 Juice);1667;166722;Upper Patag;Finished;34;Families
+42;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166722;San Pablo;Finished;52;Families
+159;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Anomar;Finished;32;Families
+160;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Canlanipa;Finished;3;Families
+161;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Ipil;Finished;9;Families
+162;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Lipata;Finished;7;Families
+163;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Luna;Finished;15;Families
+164;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Mabini;Finished;3;Families
+165;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Mabua;Finished;4;Families
+166;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Mat-i;Finished;14;Families
+167;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Poctoy;Finished;2;Families
+168;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Punta Bilar;Finished;4;Families
+169;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Quezon;Finished;4;Families
+170;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Rizal;Finished;13;Families
+171;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Sabang;Finished;3;Families
+172;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;San Juan;Finished;84;Families
+173;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;San Roque;Finished;3;Families
+174;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Taft;Finished;41;Families
+175;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Togbongon;Finished;1;Families
+176;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Trinidad;Finished;2;Families
+177;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Washington;Finished;27;Families
+43;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166722;San Pedro;Finished;2;Families
+44;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166722;Tinogpahan;Finished;2;Families
+45;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166722;Ima;Finished;26;Families
+46;Holcim;Relief;Food Items;Assorted Food Packs (Milk);1667;166722;Upper Patag;Finished;34;Families
+182;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Cagniog;Finished;5;Families
+183;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166724;Lipata;Finished;561;Families
+66;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166722;San Pablo;Finished;52;Families
+185;IFRC;Assessment;Assessment;Operations Team;1667;166724;;Finished;1;team
+67;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166722;San Pedro;Finished;2;Families
+68;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166722;Tinogpahan;Finished;2;Families
+69;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166722;Ima;Finished;26;Families
+70;Holcim;Relief;Food Items;Assorted Food Packs (Noodles);1667;166722;Upper Patag;Finished;34;Families
+90;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166722;San Pablo;Finished;52;Families
+91;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166722;San Pedro;Finished;2;Families
+192;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Talisay;Finished;205;Individuals
+193;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Nonoc;Finished;135;Individuals
+194;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;;Finished;134;Individuals
+195;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Buenavista;Finished;220;Individuals
+196;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Alegria;Finished;125;Individuals
+197;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Bilabid;Finished;48;Individuals
+92;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166722;Tinogpahan;Finished;2;Families
+93;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166722;Ima;Finished;26;Families
+200;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Gacepan;Finished;43;Individuals
+201;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Ipil;Finished;119;Individuals
+202;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Mabua;Finished;736;Individuals
+203;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Mat-i;Finished;66;Individuals
+204;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Poctoy;Finished;9;Individuals
+205;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;;Finished;43;Individuals
+206;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;San Roque;Finished;12;Individuals
+207;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Washington;Finished;25;Individuals
+208;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;San Juan;Finished;416;Individuals
+209;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Sabang;Finished;5;Individuals
+210;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Taft;Finished;190;Individuals
+211;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Canlanipa;Finished;16;Individuals
+212;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Luna;Finished;107;Individuals
+213;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Rizal;Finished;27;Individuals
+214;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Mabini;Finished;13;Individuals
+215;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Togbongon;Finished;6;Individuals
+216;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Anomar;Finished;147;Individuals
+217;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Trinidad;Finished;11;Individuals
+218;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Quezon;Finished;21;Individuals
+219;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Lipata;Finished;132;Individuals
+220;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Punta Bilar;Finished;108;Individuals
+221;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Sukailang;Finished;84;Individuals
+222;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;;Finished;92;Individuals
+223;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;;Finished;15;Individuals
+224;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Macopa;Finished;103;Individuals
+225;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Magtangale;Finished;167;Individuals
+226;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;Ima;Finished;112;Individuals
+227;IFRC;Welfare;PSS;Psychosocial Support;1667;166724;San Pablo;Finished;128;Individuals
+228;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Anomar;Finished;32;Families
+229;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Canlanipa;Finished;3;Families
+230;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Ipil;Finished;9;Families
+231;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Lipata;Finished;7;Families
+232;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Luna;Finished;15;Families
+233;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Mabini;Finished;3;Families
+234;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Mabua;Finished;4;Families
+235;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Mat-i;Finished;14;Families
+236;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Poctoy;Finished;2;Families
+237;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Punta Bilar;Finished;4;Families
+238;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Quezon;Finished;4;Families
+239;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Rizal;Finished;13;Families
+240;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Sabang;Finished;3;Families
+241;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;San Juan;Finished;84;Families
+242;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;San Roque;Finished;3;Families
+243;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Taft;Finished;41;Families
+244;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Togbongon;Finished;1;Families
+245;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Trinidad;Finished;2;Families
+246;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Washington;Finished;27;Families
+94;Holcim;Relief;Food Items;Assorted Food Packs (Rice);1667;166722;Upper Patag;Finished;34;Families
+114;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166722;San Pablo;Finished;52;Families
+115;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166722;San Pedro;Finished;2;Families
+116;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166722;Tinogpahan;Finished;2;Families
+117;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166722;Ima;Finished;26;Families
+118;Holcim;Relief;Food Items;Assorted Food Packs (Snacks);1667;166722;Upper Patag;Finished;34;Families
+124;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166722;San Pablo;Finished;52;Families
+125;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166722;San Pedro;Finished;2;Families
+255;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Cagniog;Finished;5;Families
+256;PRC;relief;Non-Food Items;Sleeping Kit (Blanket);1667;166724;Danao;Finished;4;families
+257;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Anomar;Finished;32;Families
+258;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Canlanipa;Finished;3;Families
+259;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Ipil;Finished;9;Families
+260;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Lipata;Finished;7;Families
+261;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Luna;Finished;15;Families
+262;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Mabini;Finished;3;Families
+263;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Mabua;Finished;4;Families
+264;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Mat-i;Finished;14;Families
+265;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Poctoy;Finished;2;Families
+266;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Punta Bilar;Finished;4;Families
+267;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Quezon;Finished;4;Families
+268;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Rizal;Finished;13;Families
+269;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Sabang;Finished;3;Families
+270;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;San Juan;Finished;84;Families
+271;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;San Roque;Finished;3;Families
+272;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Taft;Finished;41;Families
+273;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Togbongon;Finished;1;Families
+274;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Trinidad;Finished;2;Families
+275;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Washington;Finished;27;Families
+126;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166722;Tinogpahan;Finished;2;Families
+127;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166722;Ima;Finished;25;Families
+128;Korean RC;WASH;Non-Food Items;Assorted Hygiene Items;1667;166722;Upper Patag;Finished;34;Families
+279;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1667;166724;Cagniog;Finished;5;Families
+280;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Anomar;Finished;32;Families
+281;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Canlanipa;Finished;3;Families
+282;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Ipil;Finished;9;Families
+283;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Lipata;Finished;7;Families
+284;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Luna;Finished;15;Families
+285;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Mabini;Finished;3;Families
+286;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Mabua;Finished;4;Families
+287;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Mat-i;Finished;14;Families
+288;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Poctoy;Finished;2;Families
+289;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Punta Bilar;Finished;4;Families
+290;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Quezon;Finished;4;Families
+291;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Rizal;Finished;13;Families
+292;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Sabang;Finished;3;Families
+293;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;San Juan;Finished;84;Families
+294;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;San Roque;Finished;3;Families
+295;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Taft;Finished;41;Families
+296;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Togbongon;Finished;1;Families
+297;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Trinidad;Finished;2;Families
+298;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Washington;Finished;27;Families
+157;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1667;166722;San Isidro;Finished;164;Individuals
+158;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1667;166722;Rizal;Finished;17;Individuals
+178;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166722;San Isidro;Finished;125;Families
+302;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mat);1667;166724;Cagniog;Finished;5;Families
+303;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Anomar;Finished;32;Families
+304;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Canlanipa;Finished;3;Families
+305;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Ipil;Finished;9;Families
+306;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Lipata;Finished;7;Families
+307;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Luna;Finished;15;Families
+308;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Mabini;Finished;3;Families
+309;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Mabua;Finished;4;Families
+310;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Mat-i;Finished;14;Families
+311;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Poctoy;Finished;2;Families
+312;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Punta Bilar;Finished;4;Families
+313;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Quezon;Finished;4;Families
+314;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Rizal;Finished;13;Families
+315;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Sabang;Finished;3;Families
+316;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;San Juan;Finished;84;Families
+317;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;San Roque;Finished;3;Families
+318;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Taft;Finished;41;Families
+319;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Togbongon;Finished;1;Families
+320;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Trinidad;Finished;2;Families
+321;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Washington;Finished;27;Families
+184;IFRC;WASH;Non-Food Items;Jerry Can 10L;1667;166722;San Pedro;Finished;9;Families
+198;IFRC;Welfare;PSS;Psychosocial Support;1667;166722;Mayag;Finished;103;Individuals
+199;IFRC;Welfare;PSS;Psychosocial Support;1667;166722;Mayag;Finished;43;Individuals
+325;IFRC;Shelter;Non-Food Items;Tarpaulin;1667;166724;Cagniog;Finished;5;Families
+326;IFRC;relief;Non-Food Items;Tents;1667;166724;;Finished;75;sets
+327;Holcim;Relief;Non-Food Items;Towel;1667;166724;Canlanipa;Finished;7;Families
+328;Holcim;Relief;Non-Food Items;Towel;1667;166724;Luna;Finished;3;Families
+329;Holcim;Relief;Non-Food Items;Towel;1667;166724;Mabini;Finished;4;Families
+330;Holcim;Relief;Non-Food Items;Towel;1667;166724;Mat-i;Finished;11;Families
+331;Holcim;Relief;Non-Food Items;Towel;1667;166724;Poctoy;Finished;2;Families
+332;Holcim;Relief;Non-Food Items;Towel;1667;166724;Rizal;Finished;1;Families
+333;Holcim;Relief;Non-Food Items;Towel;1667;166724;San Juan;Finished;3;Families
+334;Holcim;Relief;Non-Food Items;Towel;1667;166724;San Roque;Finished;1;Families
+335;Holcim;Relief;Non-Food Items;Towel;1667;166724;Taft;Finished;85;Families
+336;Holcim;Relief;Non-Food Items;Towel;1667;166724;Togbongon;Finished;1;Families
+337;Holcim;Relief;Non-Food Items;Towel;1667;166724;Washington;Finished;28;Families
+250;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166722;San Pablo;Finished;52;Families
+251;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166722;San Pedro;Finished;2;Families
+252;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166722;Tinogpahan;Finished;2;Families
+253;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166722;Ima;Finished;25;Families
+254;PRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1667;166722;Upper Patag;Finished;34;Families
+343;Holcim;Relief;Non-Food Items;Towel;1667;166722;San Pablo;Finished;52;Families
+344;Holcim;Relief;Non-Food Items;Towel;1667;166722;San Pedro;Finished;2;Families
+345;Holcim;Relief;Non-Food Items;Towel;1667;166722;Tinogpahan;Finished;2;Families
+346;Holcim;Relief;Non-Food Items;Towel;1667;166722;Ima;Finished;26;Families
+347;Holcim;Relief;Non-Food Items;Towel;1667;166722;Upper Patag;Finished;34;Families
+348;Holcim;Relief;Non-Food Items;Towel;1667;166724;Danao;Finished;4;Families
+349;Holcim;Relief;Non-Food Items;Towel;1667;166724;Ipil;Finished;1;Families
+350;Holcim;Relief;Non-Food Items;Towel;1667;166724;Cagniog;Finished;5;Families
+351;IFRC;WASH;Water;Water Distribution;1667;166724;;Finished;16500;liters
+352;IFRC;WASH;Water;Water Distribution;1667;166724;Sabang;Finished;13000;liters
+353;IFRC;WASH;Water;Water Distribution;1667;166724;Cagniog;Finished;36000;liters
+354;IFRC;WASH;Water;Water Distribution;1667;166724;;Finished;2000;liters
+355;IFRC;WASH;Water;Water Distribution;1667;166722;San Isidro;Finished;20000;liters
+356;IFRC;WASH;Water;Water Distribution;1667;166724;;Finished;28000;liters
+357;IFRC;WASH;Water;Water Distribution;1667;166724;Cagniog;Finished;41500;liters
+358;IFRC;WASH;Water;WatSan Team;1667;166724;;Finished;1;team
+359;PRC;Welfare;Welfare;Welfare Desk;1667;166724;;Finished;2;desk
